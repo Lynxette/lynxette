@@ -15,6 +15,7 @@ server.pid
 *.eml
 /dist/
 .cache
+<<<<<<< HEAD
 .history
 /.idea
 /*.iml
@@ -24,3 +25,5 @@ server.pid
 /.project
 /RUNNING_PID
 /.settings
+=======
+>>>>>>> 99138849465f65a06fbc98b91216178dc949755b
